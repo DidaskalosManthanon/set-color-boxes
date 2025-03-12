@@ -1,0 +1,39 @@
+body {
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 5%;
+  }
+
+  .color-box {
+    width: 100px;
+    height: 100px;
+    border-radius: 12.5px;
+    display: inline-block;
+    margin-right: 5.5%;
+  }
+  
+  .color1 {
+    background-color: #00FF00;
+    margin-left: 22%;
+  }
+  
+  .color2 {
+    background-color: rgb(200, 0, 250);
+  }
+  
+  .color3 {
+    background-color: orange;
+  }
+  
+  .color4 {
+    background-color: hsl(110, 50%, 50%);
+  }
+  
+  .color5 {
+    background-color: red;
+    margin-right: 12.5%;
+  }
+  
